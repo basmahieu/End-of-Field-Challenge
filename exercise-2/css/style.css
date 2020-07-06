@@ -1,0 +1,21 @@
+html,
+body {
+  height: 100%;
+}
+
+Body {
+  font-family: "Open Sans", sans-serif;
+  color: #160d2a;
+}
+
+H1,
+h2,
+H3 {
+  font-family: "IBM Plex Serif", serif;
+}
+
+.footer {
+  background-color: #452a49;
+  width: 1280px;
+  height: 330px;
+}
