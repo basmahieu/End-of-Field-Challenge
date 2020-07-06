@@ -69,3 +69,35 @@ ul li {
   width: 25%;
   margin-right: 35px;
 }
+
+section {
+  background-color: #555;
+  padding: 2rem 0;
+  text-align: left;
+}
+.contact {
+  display: inline-block;
+  text-align: left;
+}
+.contact ul {
+  padding-left: 0; /*  added  */
+}
+.contact li {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.contact li:last-child {
+  margin: 0;
+}
+.contact a {
+  color: white;
+  text-decoration: none;
+}
+
+.contact p {
+  color: white;
+  line-height: 1.4;
+  margin-left: 10px;
+  font-size: 10pt;
+}
