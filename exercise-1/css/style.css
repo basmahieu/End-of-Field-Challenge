@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+Body {
+  margin: 40px;
+}
+
+table {
+  border: 1px solid black;
+}
+
+table tr td {
+  border: 1px solid black;
+}
