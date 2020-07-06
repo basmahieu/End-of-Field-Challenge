@@ -5,12 +5,43 @@
 
 Body {
   margin: 40px;
+  font-family: "Montserrat", sans-serif;
+  color: #160d2a;
 }
+
+.container {
+}
+
+/* Start Table Styling */
 
 table {
-  border: 1px solid black;
+  height: 280px;
+  width: 414px;
+  position: relative;
+  background-color: #e8edf4;
+  border-radius: 10px;
+  padding-left: 36px;
+  padding-right: 36px;
+  text-align: left;
 }
 
-table tr td {
-  border: 1px solid black;
+th {
+  font-weight: 900;
+  font-size: 18pt;
+  text-align: left;
+  border-width: 414px;
+
+  height: 70px;
+}
+
+tr td {
+  border-top: 2px solid white;
+  border-spacing: 0;
+
+  font-weight: 600;
+  font-size: 12pt;
+}
+
+.table-right {
+  padding-left: 10px;
 }
