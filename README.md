@@ -1,6 +1,6 @@
-# Frameworks - Bootstrap exercise
+# End of Field Challenge
 
-[Click here to see exercises](https://basmahieu.github.io/framework-bootstrap/)
+[Click here to see exercises](https://basmahieu.github.io/End-of-Field-Challenge/)
 
 ---
 
