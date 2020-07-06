@@ -7,15 +7,65 @@ Body {
   font-family: "Open Sans", sans-serif;
   color: #160d2a;
 }
-
 H1,
 h2,
 H3 {
   font-family: "IBM Plex Serif", serif;
+  font-size: 14pt;
+  margin-bottom: 30px;
 }
 
-.footer {
-  background-color: #452a49;
-  width: 1280px;
-  height: 330px;
+p {
+  font-size: 12pt;
+  line-height: 1.6;
+}
+
+ul {
+  padding: 0;
+}
+
+ul li {
+  list-style-type: none;
+  font-size: 12pt;
+  line-height: 2.3;
+}
+
+/* Start Footer */
+#wrapper {
+  width: 100%;
+  max-width: 1280px;
+  margin: auto;
+}
+
+#footer {
+  color: #fff;
+  background-color: #492548;
+  width: 100%;
+  float: left;
+  padding-top: 24px;
+  padding-bottom: 24px;
+}
+
+.footerFloat {
+  float: left;
+  min-width: 200px;
+  padding-left: 35px;
+}
+
+#column-1 {
+  width: 25%;
+  margin-right: 60px;
+}
+
+#column-2 {
+  width: 10%;
+}
+
+#column-3 {
+  width: 10%;
+}
+
+#column-4 {
+  width: 25%;
+  margin-right: 35px;
 }
