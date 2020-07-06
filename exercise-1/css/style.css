@@ -8,6 +8,8 @@ Body {
   color: #160d2a;
 }
 
+/* Center table */
+
 .container {
   height: 100%;
   padding: 0;
@@ -33,7 +35,6 @@ th {
   font-weight: 900;
   font-size: 18pt;
   text-align: left;
-  border-width: 414px;
   padding-left: 36px;
   padding-right: 36px;
   height: 70px;
@@ -41,14 +42,19 @@ th {
 
 tr td {
   border-top: 2px solid white;
-  border-spacing: 0;
-
   font-weight: 600;
   font-size: 12pt;
+  line-height: 1.6;
   padding-left: 36px;
 }
 
 .table-right {
   padding-left: 10px;
   padding-right: 36px;
+}
+
+/* Fontawesome */
+
+.fas {
+  font-size: 12px;
 }
